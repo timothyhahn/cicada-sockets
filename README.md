@@ -1,5 +1,6 @@
 # Cicada Sockets
 [![Build Status](https://travis-ci.org/timothyhahn/cicada-sockets.svg?branch=master)](https://travis-ci.org/timothyhahn/cicada-sockets)
+[![Coverage Status](https://coveralls.io/repos/github/timothyhahn/cicada-sockets/badge.svg)](https://coveralls.io/github/timothyhahn/cicada-sockets)
 
 Simple websocket echo-er. Hoping to turn this into a little fun side project.
 
