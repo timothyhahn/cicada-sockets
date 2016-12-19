@@ -1,4 +1,5 @@
 # Cicada Sockets
+[![Build Status](https://travis-ci.org/timothyhahn/cicada-sockets.svg?branch=master)](https://travis-ci.org/timothyhahn/cicada-sockets)
 
 Simple websocket echo-er. Hoping to turn this into a little fun side project.
 
